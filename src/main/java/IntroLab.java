@@ -41,7 +41,7 @@ public class IntroLab {
      * Make sure you document your method properly!
      */
     public static String koikeren() {
-        return printLabMessage("Hello", "Rene Koike", true,
+        return printLabMessage("Hello", "Rene  Koike", true,
                 "Welcome to CSC207!");
     }
 
